@@ -1,4 +1,4 @@
-# ALZHEIMER DISEASE CLASSIFICATION
+# DEEP LEARNING-BASED EARLY DETECTION OF ALZHEIMER’S DISEASE
 
 This project builds a Convolutional Neural Network (CNN) to classify brain MRI images into four stages of Alzheimer’s disease progression. It uses TensorFlow, Keras, and SMOTE for deep learning and class imbalance handling.
 
